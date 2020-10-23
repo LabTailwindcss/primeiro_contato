@@ -1,6 +1,6 @@
 ## Primeiro contato com Tailwindcss
-<p>Primeiro contato com tailwindcss, vou codificar um template seguindo
-video aula no [Youtube](https://www.youtube.com/watch?v=1qH3wAtX4So).</p>
+Primeiro contato com tailwindcss, vou codificar um template seguindo
+video aula  [Youtube](https://www.youtube.com/watch?v=1qH3wAtX4So).
 
 #### Tecnologia usada 
    - [Tailwindcss](https://tailwindcss.com)
